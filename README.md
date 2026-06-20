@@ -21,7 +21,10 @@ My ultimate goal is to become a **Full-Stack Developer** and transition into a *
 * **Platforms:** freeCodeCamp, Apna College, W3Schools, and GeeksforGeeks.
 
 ---
-### 🤝 Let's Connect
-* 📧 **Email:** [your.email@example.com](mailto:anwarjhanshaik@gmail.com)
+### 🤝 Let's Connect & Follow My Journey
+* [freecodecamp](https://www.freecodecamp.org/shaiksajida)
+* [GitHub](https://github.com/anwarjhanshaik)
+* 📧 **Email:** [anwarjhanshaik@gmail.com](mailto:anwarjhanshaik@gmail.com)
+* ⚡ **Availability:** Open to remote open-source collaborations and entry-level freelance web development projects.
 
 *"Brick by brick, line by line, building my engineering dream from home."* 🚀
