@@ -23,7 +23,7 @@ My ultimate goal is to become a **Full-Stack Developer** and transition into a *
 ---
 ### 🤝 Let's Connect & Follow My Journey
 * [freecodecamp](https://www.freecodecamp.org/shaiksajida)
-* [GitHub](https://github.com/anwarjhanshaik)
+* [GitHub](https://github.com/ShaikSajida124/SajidaShaik/edit/main/README.md)
 * 📧 **Email:** [anwarjhanshaik@gmail.com](mailto:anwarjhanshaik@gmail.com)
 * ⚡ **Availability:** Open to remote open-source collaborations and entry-level freelance web development projects.
 
